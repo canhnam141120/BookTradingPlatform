@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i+dYxe9tvYBKhQQtLB2ZKB/BEANcIbbS5yYyTRr7TfE=",
+  "Source": "BTP_API",
+  "BasePath": "_content/BTP_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
