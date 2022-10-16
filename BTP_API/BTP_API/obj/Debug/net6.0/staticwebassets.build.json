@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "i+dYxe9tvYBKhQQtLB2ZKB/BEANcIbbS5yYyTRr7TfE=",
+  "Hash": "vnilS/qZVXSbpV/4LXnqA13yM0TxHJSA49emFMetLlg=",
   "Source": "BTP_API",
   "BasePath": "_content/BTP_API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BTP_API\\wwwroot",
+      "Source": "BTP_API",
+      "ContentRoot": "E:\\BTP_API\\BTP_API\\BTP_API\\wwwroot\\",
+      "BasePath": "_content/BTP_API",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }
